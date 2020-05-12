@@ -20,11 +20,11 @@ Dream hostels platform helps students book hostels early and get accomodation wi
 * CSS with Bootsrap
 * Javascript with Jquery
 ## {Live Link}
-https://beryl01.github.io/Dream-Hostels/
+
 ## {Support and contact details}
 For Further questions and assistance reach us on:
 * email: dreamhostels@gmail.com.
-* phone: +254 70123456.
+
 ## {Copyright and license information}
 Copyrights © 2020 Dream Hostels. All rights reserved
 
